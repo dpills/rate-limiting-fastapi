@@ -2,6 +2,8 @@
 
 This project shows a basic example of how to implement a rate limiter in FastAPI with Redis. Run this app with Docker Compose to test it out locally.
 
+> Note: a `.env` file with the same keys as the `.env-example` file is required for this to work correctly.
+
 ```bash
 $ docker-compose up
 
